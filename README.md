@@ -3,7 +3,7 @@
 Extension methods for C#'s asynchronous Tasks.
 
 
-##Usage:
+## Usage:
 Include `using namespace AsyncThen;` at the top of your C# file.
 
 Supported methods:
