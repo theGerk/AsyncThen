@@ -1,7 +1,18 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Benji Altman, Brian Bosak</Authors>
+    <Company></Company>
+    <Description>.Then syntax for Async Tasks.</Description>
+    <Copyright />
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/theGerk/AsyncThen</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/theGerk/AsyncThen</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>async await Task</PackageTags>
+    <PackageReleaseNotes>Be free and open source.</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
