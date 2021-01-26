@@ -13,7 +13,11 @@
     <PackageTags>async await Task</PackageTags>
     <PackageReleaseNotes>Be free and open source.</PackageReleaseNotes>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|netstandard2.0|AnyCPU'">
+    <DocumentationFile>\bin\Release\AsyncThen.xml</DocumentationFile>
   </PropertyGroup>
 
 </Project>
