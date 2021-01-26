@@ -4,7 +4,7 @@
     <TargetFrameworks>netstandard2.0;net45</TargetFrameworks>
     <Authors>Benji Altman, Brian Bosak</Authors>
     <Company></Company>
-    <Description>.Then syntax for Async Tasks.</Description>
+    <Description>.Then syntax for .NET's async Tasks.</Description>
     <Copyright />
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/theGerk/AsyncThen</PackageProjectUrl>
@@ -13,6 +13,7 @@
     <PackageTags>async await Task</PackageTags>
     <PackageReleaseNotes>Be free and open source.</PackageReleaseNotes>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
