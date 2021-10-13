@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace AsyncThen
+namespace Gerk.AsyncThen
 {
 	/// <summary>
 	/// Extension methods for tasks
