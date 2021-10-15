@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<TargetFrameworks>netstandard2.0;net45</TargetFrameworks>
-		<Authors>Benji Altman, Brian Bosak</Authors>
+		<TargetFrameworks>netstandard2.0;net45;net461;netstandard2.1</TargetFrameworks>
+		<Authors>Benji Altman</Authors>
 		<Company></Company>
 		<Description>.Then syntax for .NET's async Tasks.</Description>
 		<Copyright />
@@ -10,10 +10,10 @@
 		<PackageProjectUrl>https://github.com/theGerk/AsyncThen</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/theGerk/AsyncThen</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
-		<PackageTags>async await Task</PackageTags>
+		<PackageTags>async await Task then and_then</PackageTags>
 		<PackageReleaseNotes>Be free and open source.</PackageReleaseNotes>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-		<Version>2.0.0</Version>
+		<Version>2.0.1</Version>
 		<GenerateDocumentationFile>true</GenerateDocumentationFile>
 	</PropertyGroup>
 
