@@ -13,7 +13,7 @@
 		<PackageTags>async await Task then and_then</PackageTags>
 		<PackageReleaseNotes>Be free and open source.</PackageReleaseNotes>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-		<Version>2.0.1</Version>
+		<Version>2.1.0</Version>
 		<GenerateDocumentationFile>true</GenerateDocumentationFile>
 	</PropertyGroup>
 
